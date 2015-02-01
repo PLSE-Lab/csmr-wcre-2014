@@ -4,5 +4,6 @@ Bundle-Name: CSMR_WCRE_2014
 Bundle-SymbolicName: CSMR_WCRE_2014
 Bundle-Version: 1.0.0
 Require-Bundle: org.eclipse.imp.pdb.values,
- rascal
+ rascal,
+ PHPAnalysis
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
